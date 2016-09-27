@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.container {
+	border: 10px solid silver;
+	text-align: center;
+	font-size: 20px;
+	font-family: impact;
+	background-color: ;
+
+}
+
+.col-md-4 {
+	display: inline-block;
+	border: 10px solid silver;
+	text-align: center;
+	font-size: 15px;
+	font-family: Verdana;
+	width: 31%;
+	border-radius: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+	height: 100px;
+
+}
+
+
+
