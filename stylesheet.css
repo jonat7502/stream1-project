@@ -24,8 +24,8 @@ nav form {
 	display: inline-block;
 	border: 10px solid #ffd700;
 	text-align: center;
-	font-size: 15px;
-	font-family: Verdana;
+	font-size: 20px;
+	font-family: Fantasy;
 	width: 30%;
 	border-radius: 50px;
 	margin-right: 10px;
@@ -34,7 +34,7 @@ nav form {
 	text-decoration: none;
 	color: #ffd700;
 	background-color: #fff44f;
-	box-shadow: 13px 13px 13px;
+	box-shadow: 15px 15px 15px;
 
 }
 footer {
@@ -59,6 +59,26 @@ div form {
 	color: #ffd700;
 	text-decoration: none;
 	float: right;
+	margin-right: 80px;
 	
 }
+#about {
+ 	font-family: impact;
+	font-size: 20px;
+	color: #ffd700;
+	text-decoration: none;
+	float: right;
+	margin-left: 50px;
+
+}
+ .col-md-4 a{
+           color: black;
+       }
+       a:hover{
+           color: #fff44f;
+       }
+       a:active{
+           color: red;
+       }
+
  
