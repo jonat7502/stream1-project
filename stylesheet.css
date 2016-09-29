@@ -22,19 +22,19 @@ nav form {
 
 .col-md-4 {
 	display: inline-block;
-	border: 10px solid silver;
+	border: 10px solid #ffd700;
 	text-align: center;
 	font-size: 15px;
 	font-family: Verdana;
-	width: 31%;
+	width: 30%;
 	border-radius: 50px;
 	margin-right: 10px;
 	margin-left: 10px;
 	height: 100px;
-	background-color: #ffd700;
 	text-decoration: none;
 	color: #ffd700;
-
+	background-color: #fff44f;
+	box-shadow: 13px 13px 13px;
 
 }
 footer {
@@ -50,10 +50,15 @@ div form {
 	margin-left: 20px;
 	margin-bottom: 30px;
 	position: absolute;
+	color: #ffd70;
 }
 
- #a {
-	font-family: impact;
+ #contact {
+ 	font-family: impact;
+	font-size: 20px;
 	color: #ffd700;
+	text-decoration: none;
+	float: right;
+	
 }
-
+ 
