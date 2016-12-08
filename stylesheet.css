@@ -50,7 +50,7 @@ div form {
 	margin-left: 20px;
 	margin-bottom: 30px;
 	position: absolute;
-	color: #ffd70;
+	color: #ffd700;
 }
 
  #contact {
@@ -58,19 +58,27 @@ div form {
 	font-size: 20px;
 	color: #ffd700;
 	text-decoration: none;
-	float: right;
+    float: right;
 	margin-right: 80px;
-	
 }
-#about {
- 	font-family: impact;
+ #about {
+    font-family: impact;
 	font-size: 20px;
 	color: #ffd700;
 	text-decoration: none;
-	float: right;
-	margin-left: 50px;
+    float: right;
+	margin-right: 80px;
 
-}
+ }
+ #aboutlink {
+     text-align: center;
+     font-size: 18px;
+     background-color: black;
+     color: #ffd700;
+ }
+
+
+
  .col-md-4 a{
            color: black;
        }
